@@ -31,7 +31,7 @@ namespace SeleniumTests
             //idBox.Click();
             //driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
             //idBox = driver.FindElement(By.XPath("/html/body/site-help-modal/div/div/div/div[2]/resume-session-form/div/input"));
-            //idBox.SendKeys("da75ef96-c012-47b3-902f-19b766b015f4");
+            //idBox.SendKeys("[enter account here]");
             //idBox.SendKeys(Keys.Enter);
 
             //navigate to the brute force exercise
